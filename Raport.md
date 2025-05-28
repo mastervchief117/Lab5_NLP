@@ -16,7 +16,8 @@ Celem zadania było zapoznanie się z ogólnodostępnymi bibliotekami języka Py
 
 - **Nazwa**: Natural Language Toolkit (NLTK)
 - **Przeznaczenie**: Edukacyjne i klasycznne przetwarzanie języka - tokenizacja, stemming, tagging, parsowanie, analiza sentymentu
-- **Główne funkcje*:
+- **Główne funkcje**:
+
   - Tokenizacja tekstu
   - Analiza sentymentu (`SentimentIntensityAnalyzer`)
   - Operacje gramatyczne, np. tagowanie części mowy
@@ -30,7 +31,8 @@ Celem zadania było zapoznanie się z ogólnodostępnymi bibliotekami języka Py
 
 - **Nazwa**: spaCy
 - **Przeznaczenie**: Wydajne i nowoczesne NLP dla produkcyjnych zastosowań
-- **Główne funkcje*:
+- **Główne funkcje**:
+
   - Tokenizacja, lematyzacja
   - Rozpoznawanie nazw własnych (NER)
   - Dependency parsing
@@ -44,7 +46,8 @@ Celem zadania było zapoznanie się z ogólnodostępnymi bibliotekami języka Py
 ### 🔹 transformers
 - **Nazwa**: transformers (Hugging Face)
 - **Przeznaczenie**: Użycie zaawansowanych modeli językowych opartych na architekturze Transformer (np. BERT, GPT)
-- **Główne funkcje*:
+- **Główne funkcje**:
+
   - Analiza sentymentu
   - Klasyfikacja tekstu
   - Tłumaczenia, generacja tekstu, QA (pytanie-odpowiedź)
